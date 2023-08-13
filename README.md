@@ -22,9 +22,8 @@ h3 align="left">Languages and Tools:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam20091998&show_icons=true&locale=en" alt="satyam20091998" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam20091998&" alt="satyam20091998" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam20091998&show_icons=true&locale=en&layout=compact" alt="satyam20091998" /></p>
+
 
 
 
