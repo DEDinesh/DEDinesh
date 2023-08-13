@@ -6,7 +6,7 @@
 ![Data_Pipeline_Automation_Logos_-_Repeating_Pattern_-_Animation](https://github.com/DEDinesh/DEDinesh/assets/121286615/f5a1783a-536a-45fc-8ad2-f5dad871fefe)
 
 
-<img align="right" alt="coding" width="400" src="https://github.com/DEDinesh/DEDinesh/assets/121286615/45c32957-51d3-4c95-8d09-793775f266b6">
+<img align="right" alt="coding" width="400" src="![Data_Pipeline_Automation_Logos_-_Repeating_Pattern_-_Animation](https://github.com/DEDinesh/DEDinesh/assets/121286615/f5a1783a-536a-45fc-8ad2-f5dad871fefe)">
 
 <!--
 **DEDinesh/DEDinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
