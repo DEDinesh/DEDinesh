@@ -16,6 +16,7 @@
 <a href="https://www.linkedin.com/in/dinesh-c-811097259/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dinesh-chavan" height="30" width="40" /></a>
 </p>
 
+![image](https://github.com/DEDinesh/DEDinesh/assets/121286615/9146f433-4689-48ac-a22c-9c20605f7ecf)
 
 
 
