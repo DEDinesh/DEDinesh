@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/DEDinesh/DEDinesh/assets/121286615/cd692733-4081-4282-a117-78da39e16c8c)
 
 <!--
 **DEDinesh/DEDinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
