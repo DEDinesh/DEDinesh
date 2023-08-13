@@ -2,6 +2,7 @@
 
 <h1 align="center">Hello👋, I'm Dinesh</h1>
 <h3 align="center">I'm a Big Data Science Enthusiast👨‍💻</h3>
+![image](https://github.com/DEDinesh/DEDinesh/assets/121286615/45c32957-51d3-4c95-8d09-793775f266b6)
 
 
 <img align="right" alt="coding" width="400" src="https://github.com/DEDinesh/DEDinesh/assets/121286615/7e0be843-dae9-4cdd-a4cd-e9783852582d">
