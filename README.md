@@ -3,11 +3,7 @@
 <h1 align="center">Hello👋, I'm Dinesh</h1>
 <h3 align="center">I'm a Big Data Enthusiast👨‍💻</h3>
 
-															![Data_Pipeline_Automation_Logos_-_Repeating_Pattern_-_Animation](https://github.com/DEDinesh/DEDinesh/assets/121286615/0bcbe838-77e5-4d49-b047-aca5806a349a)
-
-
-
-<img align="right" alt="coding" width="400" src=![Data_Pipeline_Automation_Logos_-_Repeating_Pattern_-_Animation](https://github.com/DEDinesh/DEDinesh/assets/121286615/f5a1783a-536a-45fc-8ad2-f5dad871fefe>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121286615/260327520-90ee836f-1c6b-4824-9fd6-e344bb829d8a.gif">
 
 <!--
 **DEDinesh/DEDinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
