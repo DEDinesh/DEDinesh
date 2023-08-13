@@ -4,8 +4,8 @@
 <h3 align="center">I'm a Big Data Science Enthusiast👨‍💻</h3>
 
 
-<img align="right" alt="coding" width="400" src="">
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F12596073944177807%2F&psig=AOvVaw3w2xSAfVv_29Y1J-n82zJN&ust=1692045548412000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiV0oC_2oADFQAAAAAdAAAAABAE
+<img align="right" alt="coding" width="400" src="![image](https://github.com/DEDinesh/DEDinesh/assets/121286615/d25aa019-fa22-4f36-a1aa-16d050476355">
+
 <!--
 **DEDinesh/DEDinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
