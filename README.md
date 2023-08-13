@@ -1,4 +1,5 @@
-![image](https://github.com/DEDinesh/DEDinesh/assets/121286615/d35dd347-7702-4ecf-bf17-28a92d08a5ed)
+
+![361-3617484_bigdata-trasparent-big-data-cover-page-hd-png](https://github.com/DEDinesh/DEDinesh/assets/121286615/1568eda5-1c81-4372-b669-8b11d803b6be)
 
 <h1 align="center">Hello👋, I'm Dinesh</h1>
 <h3 align="center">I'm a Big Data Enthusiast👨‍💻</h3>
