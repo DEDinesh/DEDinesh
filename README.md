@@ -1,5 +1,6 @@
-<h1 align="center">### Hello 👋, I'm Dinesh</h1>
-
+![image](https://github.com/DEDinesh/DEDinesh/assets/121286615/71785e0e-e91d-4a77-aa50-c0bf2127ea97)
+<h1 align="center">Hello👋, I'm Dinesh</h1>
+<h3 align="center">I'm a Big Data Science Enthusiast👨‍💻</h3>
 
 <!--
 **DEDinesh/DEDinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
