@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Big Data Science Enthusiast👨‍💻</h3>
 
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/DEDinesh/DEDinesh/assets/121286615/d25aa019-fa22-4f36-a1aa-16d050476355">
+<img align="right" alt="coding" width="400" src="https://github.com/DEDinesh/DEDinesh/assets/121286615/d25aa019-fa22-4f36-a1aa-16d050476355">
 
 <!--
 **DEDinesh/DEDinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
