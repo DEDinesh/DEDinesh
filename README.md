@@ -5,11 +5,11 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121286615/260327520-90ee836f-1c6b-4824-9fd6-e344bb829d8a.gif">
 
-🌱 I’m currently learning **Big Data**
-🏅 I recently completed my Big Data studies from iNeuron.ai
-🎓 I have completed my Masters from VITV
-🤔 I’m looking for help with opportunities in the field of Big Data
-📫 Please email via dineshmdc9@gmail.com to reach me.
+🌱 I’m currently learning **Big Data**  
+🏅 I recently completed my Big Data studies from iNeuron.ai  
+🎓 I have completed my Masters from VITV  
+🤔 I’m looking for help with opportunities in the field of Big Data  
+📫 Please email via dineshmdc9@gmail.com to reach me.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
