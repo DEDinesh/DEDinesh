@@ -5,6 +5,12 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121286615/260327520-90ee836f-1c6b-4824-9fd6-e344bb829d8a.gif">
 
+- 🌱 I’m currently learning **Big Data**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dinesh-c-811097259/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-markam" height="30" width="40" /></a>
+</p>
 <!--
 **DEDinesh/DEDinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
