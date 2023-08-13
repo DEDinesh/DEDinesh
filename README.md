@@ -5,7 +5,7 @@
 <h1 align="center">Hello👋, I'm Dinesh</h1>
 <h3 align="center">I'm a Big Data Enthusiast👨‍💻</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121286615/260327520-90ee836f-1c6b-4824-9fd6-e344bb829d8a.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/121286615/260327520-90ee836f-1c6b-4824-9fd6-e344bb829d8a.gif">
 
 🌱 I’m currently learning **Big Data**  
 🏅 I recently completed my Big Data studies from iNeuron.ai  
