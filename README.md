@@ -1,7 +1,7 @@
 ![image](https://github.com/DEDinesh/DEDinesh/assets/121286615/d35dd347-7702-4ecf-bf17-28a92d08a5ed)
 
 <h1 align="center">Hello👋, I'm Dinesh</h1>
-<h3 align="center">I'm a Big Data Science Enthusiast👨‍💻</h3>
+<h3 align="center">I'm a Big Data Enthusiast👨‍💻</h3>
 
 
 
